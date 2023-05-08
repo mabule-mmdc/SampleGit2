@@ -11,6 +11,6 @@ package com.mmdc.samplegit2;
 public class SampleGit2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello Mico Bule!");
+        System.out.println("Hello Micah Bule!");
     }
 }
