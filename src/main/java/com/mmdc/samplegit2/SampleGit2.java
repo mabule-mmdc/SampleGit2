@@ -14,6 +14,6 @@ import java.awt.*;
 public class SampleGit2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello Mapua Malayan Digital College!");
+        System.out.println("Hello MMDC!");
     }
 }
