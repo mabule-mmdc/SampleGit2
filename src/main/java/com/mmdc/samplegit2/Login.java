@@ -11,4 +11,8 @@ package com.mmdc.samplegit2;
 public class Login {
     private String username;
     private String password;
+    
+    public void login(String username, String password) {
+        System.out.println("I am logging in using " + username + ":" + password);
+    }
 }
